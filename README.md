@@ -46,7 +46,7 @@ Flappy_Bird/
      ```bash
      cd .\src\
      ```
-   - Run the main class to start the game.
+   - Run the App class to start the game.
      ```bash
      java App.java FlappyBird.java
      ```
